@@ -47,7 +47,7 @@ function jump0(){
     txt="";
     jump1a()
     }
-   else alert("Очень короткое сообщение!")
+   else alert(" ")
 }
 function jump1a(){
    nfinal=(document.getElementById)? document.getElementById("n0") : document.all.n0
